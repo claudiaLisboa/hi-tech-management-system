@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Username>hbrown</Username>
+    <Password>hbrown</Password>
+    <Status />
+    <EmployeeId>1</EmployeeId>
+  </User>
+  <User>
+    <Username>jbouchard</Username>
+    <Password>jbouchard</Password>
+    <Status />
+    <EmployeeId>5</EmployeeId>
+  </User>
+  <User>
+    <Username>mbrown</Username>
+    <Password>mbrown</Password>
+    <Status />
+    <EmployeeId>4</EmployeeId>
+  </User>
+  <User>
+    <Username>pwang</Username>
+    <Password>pwang</Password>
+    <Status />
+    <EmployeeId>3</EmployeeId>
+  </User>
+  <User>
+    <Username>tmoore</Username>
+    <Password>tmoore</Password>
+    <Status />
+    <EmployeeId>2</EmployeeId>
+  </User>
+</ArrayOfUser>

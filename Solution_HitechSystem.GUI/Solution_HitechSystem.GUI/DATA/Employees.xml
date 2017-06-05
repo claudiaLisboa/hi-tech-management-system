@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <EmployeeId>1</EmployeeId>
+    <FirstName>Henry</FirstName>
+    <LastName>Brown</LastName>
+    <JobTitle>MIS Manager</JobTitle>
+  </Employee>
+  <Employee>
+    <EmployeeId>2</EmployeeId>
+    <FirstName>Thomas</FirstName>
+    <LastName>Moore</LastName>
+    <JobTitle>Sales Manager</JobTitle>
+  </Employee>
+  <Employee>
+    <EmployeeId>3</EmployeeId>
+    <FirstName>Peter</FirstName>
+    <LastName>Wang</LastName>
+    <JobTitle>Inventory Controller</JobTitle>
+  </Employee>
+  <Employee>
+    <EmployeeId>4</EmployeeId>
+    <FirstName>Mary</FirstName>
+    <LastName>Brown</LastName>
+    <JobTitle>Order Clerk</JobTitle>
+  </Employee>
+  <Employee>
+    <EmployeeId>5</EmployeeId>
+    <FirstName>Jennifer</FirstName>
+    <LastName>Bouchard</LastName>
+    <JobTitle>Order Clerk</JobTitle>
+  </Employee>
+</ArrayOfEmployee>

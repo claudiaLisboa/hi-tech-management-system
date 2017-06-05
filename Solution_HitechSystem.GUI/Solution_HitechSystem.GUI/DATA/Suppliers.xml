@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSupplier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Supplier>
+    <SupplierId>1</SupplierId>
+    <Name>Association of Canadian Publisher</Name>
+    <Address>174 Spadina Avenue Suite 306</Address>
+    <City>Toronto</City>
+    <PostalCode>M5T2C2</PostalCode>
+    <PhoneNumber>4164876116</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>2</SupplierId>
+    <Name>Harper Collins</Name>
+    <Address>2 Bloor St E, 20th Floor</Address>
+    <City>Toronto</City>
+    <PostalCode>M4W1A8</PostalCode>
+    <PhoneNumber>4169759334</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>3</SupplierId>
+    <Name>DC Canada Education Publishing</Name>
+    <Address>180 Metcalfe Street, Suite 204</Address>
+    <City>Ottawa</City>
+    <PostalCode>K2P1P5</PostalCode>
+    <PhoneNumber>6135658885</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>4</SupplierId>
+    <Name>Canadian Science Publishing</Name>
+    <Address>65 Auriga Dr., Suite 203</Address>
+    <City>Ottawa</City>
+    <PostalCode>K2E7W6</PostalCode>
+    <PhoneNumber>6136569838</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>5</SupplierId>
+    <Name>Grey House Publishing Canada</Name>
+    <Address>555 Richmond Street West, Suite 512</Address>
+    <City>Toronto</City>
+    <PostalCode>M5V3B1</PostalCode>
+    <PhoneNumber>4166446479</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>6</SupplierId>
+    <Name>Drawn &amp; Quarterly</Name>
+    <Address>6750 Esplanade, Suite 201</Address>
+    <City>Montreal</City>
+    <PostalCode>H2V4M1</PostalCode>
+    <PhoneNumber>5142792221</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>7</SupplierId>
+    <Name>Orca Book Publishers Canada</Name>
+    <Address>1016 Balmoral Road</Address>
+    <City>Victoria</City>
+    <PostalCode>V8T1A7</PostalCode>
+    <PhoneNumber>8002105277</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>8</SupplierId>
+    <Name>Anvil Press Publishers</Name>
+    <Address>278 East First Avenue</Address>
+    <City>Vancouver</City>
+    <PostalCode>V5T1A6</PostalCode>
+    <PhoneNumber>6048768710</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>9</SupplierId>
+    <Name>Nelson Education</Name>
+    <Address>1120 Birchmount Road</Address>
+    <City>Toronto</City>
+    <PostalCode>M1K5G4</PostalCode>
+    <PhoneNumber>4167529100</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>10</SupplierId>
+    <Name>Pearson Canada Inc</Name>
+    <Address>26 Prince Andrew Place</Address>
+    <City>Don Mills</City>
+    <PostalCode>M3C2T8</PostalCode>
+    <PhoneNumber>4164475101</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>11</SupplierId>
+    <Name>Course Technology</Name>
+    <Address>123 Dummy St</Address>
+    <City>Montreal</City>
+    <PostalCode>A1A1A1</PostalCode>
+    <PhoneNumber>5145145122</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>12</SupplierId>
+    <Name>Little, Brown</Name>
+    <Address>124 Dummy St</Address>
+    <City>Montreal</City>
+    <PostalCode>A1A1A1</PostalCode>
+    <PhoneNumber>5145145123</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>13</SupplierId>
+    <Name>Broadway Books</Name>
+    <Address>125 Dummy St</Address>
+    <City>Montreal</City>
+    <PostalCode>A1A1A1</PostalCode>
+    <PhoneNumber>5145145124</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>14</SupplierId>
+    <Name>Pragmatic Bookshelf</Name>
+    <Address>126 Dummy St</Address>
+    <City>Montreal</City>
+    <PostalCode>A1A1A1</PostalCode>
+    <PhoneNumber>5145145125</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>15</SupplierId>
+    <Name>Microsoft</Name>
+    <Address>127 Dummy St</Address>
+    <City>Montreal</City>
+    <PostalCode>A1A1A1</PostalCode>
+    <PhoneNumber>5145145126</PhoneNumber>
+  </Supplier>
+  <Supplier>
+    <SupplierId>16</SupplierId>
+    <Name>SUSE</Name>
+    <Address>128 Dummy St</Address>
+    <City>Montreal</City>
+    <PostalCode>A1A1A1</PostalCode>
+    <PhoneNumber>5145145127</PhoneNumber>
+  </Supplier>
+</ArrayOfSupplier>

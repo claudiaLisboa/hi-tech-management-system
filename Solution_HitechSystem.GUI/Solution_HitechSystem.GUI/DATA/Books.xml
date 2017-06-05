@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <ProductId>1</ProductId>
+    <Type>Book</Type>
+    <CategoryId>3</CategoryId>
+    <ProductName>The Pragmatic Programmer</ProductName>
+    <SupplierId>4</SupplierId>
+    <UnitPrice>21</UnitPrice>
+    <QuantityOnHand>10</QuantityOnHand>
+    <ISBN>0-201-61622-X</ISBN>
+    <AuthorId>1</AuthorId>
+    <YearPublished>1999</YearPublished>
+  </Book>
+  <Book>
+    <ProductId>2</ProductId>
+    <Type>Book</Type>
+    <CategoryId>10</CategoryId>
+    <ProductName>Information Technology Project Management</ProductName>
+    <SupplierId>11</SupplierId>
+    <UnitPrice>21.1</UnitPrice>
+    <QuantityOnHand>10</QuantityOnHand>
+    <ISBN>9780619215262</ISBN>
+    <AuthorId>13</AuthorId>
+    <YearPublished>2005</YearPublished>
+  </Book>
+  <Book>
+    <ProductId>3</ProductId>
+    <Type>Book</Type>
+    <CategoryId>11</CategoryId>
+    <ProductName>Fundamentals of Information Systems</ProductName>
+    <SupplierId>11</SupplierId>
+    <UnitPrice>12.7</UnitPrice>
+    <QuantityOnHand>30</QuantityOnHand>
+    <ISBN>9780619064914</ISBN>
+    <AuthorId>14</AuthorId>
+    <YearPublished>2003</YearPublished>
+  </Book>
+  <Book>
+    <ProductId>4</ProductId>
+    <Type>Book</Type>
+    <CategoryId>12</CategoryId>
+    <ProductName>The Seventh Sense: Power, Fortune, and Survival in the Age of Networks</ProductName>
+    <SupplierId>12</SupplierId>
+    <UnitPrice>14.1</UnitPrice>
+    <QuantityOnHand>6</QuantityOnHand>
+    <ISBN>9780316395052</ISBN>
+    <AuthorId>15</AuthorId>
+    <YearPublished>2016</YearPublished>
+  </Book>
+  <Book>
+    <ProductId>5</ProductId>
+    <Type>Book</Type>
+    <CategoryId>13</CategoryId>
+    <ProductName>Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon</ProductName>
+    <SupplierId>13</SupplierId>
+    <UnitPrice>12.99</UnitPrice>
+    <QuantityOnHand>4</QuantityOnHand>
+    <ISBN>9780770436193</ISBN>
+    <AuthorId>16</AuthorId>
+    <YearPublished>2015</YearPublished>
+  </Book>
+  <Book>
+    <ProductId>6</ProductId>
+    <Type>Book</Type>
+    <CategoryId>4</CategoryId>
+    <ProductName>Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement</ProductName>
+    <SupplierId>14</SupplierId>
+    <UnitPrice>20</UnitPrice>
+    <QuantityOnHand>30</QuantityOnHand>
+    <ISBN>9781934356920</ISBN>
+    <AuthorId>17</AuthorId>
+    <YearPublished>2012</YearPublished>
+  </Book>
+</ArrayOfBook>

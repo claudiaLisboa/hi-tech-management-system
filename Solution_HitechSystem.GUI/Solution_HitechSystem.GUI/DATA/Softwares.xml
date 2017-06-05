@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSoftware xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Software>
+    <ProductId>1</ProductId>
+    <Type>Software</Type>
+    <CategoryId>14</CategoryId>
+    <ProductName>Microsoft Word</ProductName>
+    <SupplierId>15</SupplierId>
+    <UnitPrice>10</UnitPrice>
+    <QuantityOnHand>150</QuantityOnHand>
+  </Software>
+  <Software>
+    <ProductId>2</ProductId>
+    <Type>Software</Type>
+    <CategoryId>14</CategoryId>
+    <ProductName>Microsoft Excel</ProductName>
+    <SupplierId>15</SupplierId>
+    <UnitPrice>10</UnitPrice>
+    <QuantityOnHand>250</QuantityOnHand>
+  </Software>
+  <Software>
+    <ProductId>3</ProductId>
+    <Type>Software</Type>
+    <CategoryId>14</CategoryId>
+    <ProductName>Microsoft Powerpoint</ProductName>
+    <SupplierId>15</SupplierId>
+    <UnitPrice>10</UnitPrice>
+    <QuantityOnHand>250</QuantityOnHand>
+  </Software>
+  <Software>
+    <ProductId>4</ProductId>
+    <Type>Software</Type>
+    <CategoryId>1</CategoryId>
+    <ProductName>Linux</ProductName>
+    <SupplierId>16</SupplierId>
+    <UnitPrice>50</UnitPrice>
+    <QuantityOnHand>200</QuantityOnHand>
+  </Software>
+</ArrayOfSoftware>

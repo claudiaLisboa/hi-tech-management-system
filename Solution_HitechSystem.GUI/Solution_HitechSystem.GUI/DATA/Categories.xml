@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCategory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Category>
+    <CategoryId>1</CategoryId>
+    <Description>Operating Systems</Description>
+  </Category>
+  <Category>
+    <CategoryId>2</CategoryId>
+    <Description>Network</Description>
+  </Category>
+  <Category>
+    <CategoryId>3</CategoryId>
+    <Description>Security</Description>
+  </Category>
+  <Category>
+    <CategoryId>4</CategoryId>
+    <Description>Databases</Description>
+  </Category>
+  <Category>
+    <CategoryId>5</CategoryId>
+    <Description>Programming Languages</Description>
+  </Category>
+  <Category>
+    <CategoryId>7</CategoryId>
+    <Description>Artificial Intelligence</Description>
+  </Category>
+  <Category>
+    <CategoryId>8</CategoryId>
+    <Description>Programming</Description>
+  </Category>
+  <Category>
+    <CategoryId>9</CategoryId>
+    <Description>Hardware</Description>
+  </Category>
+  <Category>
+    <CategoryId>10</CategoryId>
+    <Description>Project Management</Description>
+  </Category>
+  <Category>
+    <CategoryId>11</CategoryId>
+    <Description>Computers General</Description>
+  </Category>
+  <Category>
+    <CategoryId>12</CategoryId>
+    <Description>Business &amp; Economics</Description>
+  </Category>
+  <Category>
+    <CategoryId>13</CategoryId>
+    <Description>Hackers</Description>
+  </Category>
+  <Category>
+    <CategoryId>14</CategoryId>
+    <Description>Office</Description>
+  </Category>
+</ArrayOfCategory>

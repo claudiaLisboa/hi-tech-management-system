@@ -1,0 +1,6 @@
+C:\Final_Project_C#_ClaudiaLisboa\Hitech.Data\Hitech.Data\bin\Debug\Hitech.Data.dll
+C:\Final_Project_C#_ClaudiaLisboa\Hitech.Data\Hitech.Data\bin\Debug\Hitech.Data.pdb
+C:\Final_Project_C#_ClaudiaLisboa\Hitech.Data\Hitech.Data\obj\Debug\Hitech.Data.dll
+C:\Final_Project_C#_ClaudiaLisboa\Hitech.Data\Hitech.Data\obj\Debug\Hitech.Data.pdb
+C:\Final_Project_C#_ClaudiaLisboa\Hitech.Data\Hitech.Data\bin\Debug\Hitech.Business.dll
+C:\Final_Project_C#_ClaudiaLisboa\Hitech.Data\Hitech.Data\bin\Debug\Hitech.Business.pdb

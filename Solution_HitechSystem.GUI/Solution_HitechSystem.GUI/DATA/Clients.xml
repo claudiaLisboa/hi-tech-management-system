@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <ClientId>1</ClientId>
+    <Name>Université de Montréal</Name>
+    <Address>2900 Boulevard Edouard-Montpetit</Address>
+    <City>Montréal</City>
+    <PostalCode>H3T1J4</PostalCode>
+    <PhoneNumber>5143436111</PhoneNumber>
+    <FaxNumber />
+    <CreditLimit>10000</CreditLimit>
+    <BankNumber>001</BankNumber>
+    <BranchNumber>02691</BranchNumber>
+    <BankAccount>869767</BankAccount>
+  </Client>
+  <Client>
+    <ClientId>2</ClientId>
+    <Name>Université Laval</Name>
+    <Address>2325 Rue de l'Université</Address>
+    <City>Ville de Québec</City>
+    <PostalCode>G1V0A6</PostalCode>
+    <PhoneNumber>4186562131</PhoneNumber>
+    <FaxNumber />
+    <CreditLimit>2000</CreditLimit>
+    <BankNumber>003</BankNumber>
+    <BranchNumber>07137</BranchNumber>
+    <BankAccount>987877</BankAccount>
+  </Client>
+  <Client>
+    <ClientId>3</ClientId>
+    <Name>Université du Québec à Montréal</Name>
+    <Address>405 Rue Sainte-Catherine Est</Address>
+    <City>Montréal</City>
+    <PostalCode>H2L2C4</PostalCode>
+    <PhoneNumber>5149873000</PhoneNumber>
+    <FaxNumber />
+    <CreditLimit>500</CreditLimit>
+    <BankNumber>039</BankNumber>
+    <BranchNumber>01281</BranchNumber>
+    <BankAccount>123254</BankAccount>
+  </Client>
+  <Client>
+    <ClientId>4</ClientId>
+    <Name>Université Concordia</Name>
+    <Address>7141 Rue Sherbrooke O</Address>
+    <City>Montréal</City>
+    <PostalCode>H4B1R6</PostalCode>
+    <PhoneNumber>5148482424</PhoneNumber>
+    <FaxNumber />
+    <CreditLimit>1000</CreditLimit>
+    <BankNumber>006</BankNumber>
+    <BranchNumber>10841</BranchNumber>
+    <BankAccount>335077</BankAccount>
+  </Client>
+  <Client>
+    <ClientId>5</ClientId>
+    <Name>Université de Sherbrooke</Name>
+    <Address>2500, boulevard de l'Université, Immeuble K1</Address>
+    <City>Sherbrooke</City>
+    <PostalCode>J1K2R1</PostalCode>
+    <PhoneNumber>8198218000</PhoneNumber>
+    <FaxNumber />
+    <CreditLimit>500</CreditLimit>
+    <BankNumber>250</BankNumber>
+    <BranchNumber>00151</BranchNumber>
+    <BankAccount>200738</BankAccount>
+  </Client>
+  <Client>
+    <ClientId>6</ClientId>
+    <Name>Université McGill</Name>
+    <Address>845 Rue Sherbrooke O</Address>
+    <City>Montréal</City>
+    <PostalCode>H3A0G4</PostalCode>
+    <PhoneNumber>5143984455</PhoneNumber>
+    <FaxNumber />
+    <CreditLimit>5000</CreditLimit>
+    <BankNumber>016</BankNumber>
+    <BranchNumber>10786</BranchNumber>
+    <BankAccount>750446</BankAccount>
+  </Client>
+  <Client>
+    <ClientId>7</ClientId>
+    <Name>HEC Montréal</Name>
+    <Address>3000 Chemin de la Côte-Sainte-Catherine</Address>
+    <City>Montréal</City>
+    <PostalCode>H3T2A7</PostalCode>
+    <PhoneNumber>5143406000</PhoneNumber>
+    <FaxNumber />
+    <CreditLimit>4000</CreditLimit>
+    <BankNumber>002</BankNumber>
+    <BranchNumber>62711</BranchNumber>
+    <BankAccount>008755</BankAccount>
+  </Client>
+</ArrayOfClient>
